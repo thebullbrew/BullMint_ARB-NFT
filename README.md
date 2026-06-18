@@ -1,4 +1,4 @@
-# # Repository Name: BULLMINT-ARB-NFT
+# Repository Name: BULLMINT-ARB-NFT
 # Contract Name: BREW_ARB
 # Collection Name: BRW-COLLECTION-ARB
 # Token Symbol: BRW-ARB
