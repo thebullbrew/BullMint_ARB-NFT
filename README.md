@@ -1,5 +1,5 @@
 # BullMint_ARBITRUM-NOVA_Mainnet
-Deploying an NFT contract into the Arbitrum Nova main net.
+Deploying an NFT contract into the Arbitrum Nova main net (assuming you have all dependencies installed and your metamask wallet ready. If not just get outta here.)
 
 <img width="1280" height="640" alt="1" src="https://github.com/user-attachments/assets/2b1f104a-f98b-40e0-b919-3665f4d7098a" />
 
