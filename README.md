@@ -9,6 +9,43 @@ Cute little description : This project is about deploying an NFT contract into t
 
 
 
+# PROJECT STRUCTURE:
+
+Repository:
+bullmint_ARB-NFT
+
+Contract Name:
+BullMintARBNFT
+
+Collection Name:
+bullmint_ARB-NFT
+
+Token Symbol:
+BRW-ARB
+
+Network:
+Arbitrum Nova Mainnet
+
+Max Supply:
+1000
+
+Standard:
+ERC-721 + ERC-2981
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Instructions:
 
 # 1. Create the project
