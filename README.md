@@ -1,13 +1,17 @@
 
 # PROJECT STRUCTURE:
 
-# Repository Name: BULLMINT-ARB-NFT
+# Repository Name: 
+BULLMINT-ARB-NFT
 
-# Contract Name: BREW_ARB
+# Contract Name: 
+BREW_ARB
 
-# Collection Name: BRW-COLLECTION-ARB
+# Collection Name: 
+BRW-COLLECTION-ARB
 
-# Token Symbol: BRW-ARB
+# Token Symbol: 
+BRW-ARB
 
 # Network:
 Arbitrum Nova Mainnet
