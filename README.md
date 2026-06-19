@@ -1,5 +1,15 @@
 
-# PROJECT STRUCTURE:
+
+
+
+<img width="1280" height="640" alt="1" src="https://github.com/user-attachments/assets/2b1f104a-f98b-40e0-b919-3665f4d7098a" />
+
+
+
+<img width="1280" height="640" alt="2" src="https://github.com/user-attachments/assets/d4ef943d-9d4a-4f7a-8adf-07ef12f88e93" />
+
+
+# PROJECT STRUCTURE: ( CUSTOMIZE YOUR OWN BUT USE THIS STRUCTURE. GET ORGANIZED.)
 
 # Repository Name: 
 BULLMINT-ARB-NFT
@@ -22,14 +32,8 @@ Arbitrum Nova Mainnet
 # Standard:
 ERC-721 + ERC-2981
 
-
-Cute little Description : This project is about deploying an NFT contract into the Arbitrum Nova main net (assuming you have all dependencies installed and your metamask wallet ready. If not get outta here.)
-<img width="1280" height="640" alt="1" src="https://github.com/user-attachments/assets/2b1f104a-f98b-40e0-b919-3665f4d7098a" />
-
-
-
-<img width="1280" height="640" alt="2" src="https://github.com/user-attachments/assets/d4ef943d-9d4a-4f7a-8adf-07ef12f88e93" />
-
+# Cute little Description : 
+This project is about deploying an NFT contract into the Arbitrum Nova main net (assuming you have all dependencies installed and your metamask wallet ready. If not get outta here.) 
 
 
 
